@@ -7,13 +7,13 @@
 
 ### Resources Involved
 * SolutionStream provides
-.* Solution Architect
-.* UX Expert
-.* Business Analyst
+ * Solution Architect
+ * UX Expert
+ * Business Analyst
 * Client provides
-.* Technology leader(s)
-.* Technology stakeholder(s)
-.* Technology user(s)
+ * Technology leader(s)
+ * Technology stakeholder(s)
+ * Technology user(s)
 
 ### Process
 * Review current technology and technology goals
@@ -24,13 +24,13 @@
 * Interview technology stake-holders
 
 * Identify technology direction and purpose
-.* Key technology architecture
-.* Technology goals
+ * Key technology architecture
+ * Technology goals
 * Identify technology work flow
 * Identify pain points
-.* Security analysis
-.* Unit test coverage
-.* Customer pain points
+ * Security analysis
+ * Unit test coverage
+ * Customer pain points
 
 
 
@@ -42,10 +42,10 @@
 ### Notes
 * Technology strategy must start with business and end with business
 * Develop technology strategy scenarios
-.* Potential strategy scenarios
-..* Mobile Development
-..* Micro service architecture
-..* Web 2.0 architecture
-.* Identify how emerging technology can enable a technology strategy
-.* Bring in business expertise to determine the potential value of the strategy
+ * Potential strategy scenarios
+  * Mobile Development
+  * Micro service architecture
+  * Web 2.0 architecture
+ * Identify how emerging technology can enable a technology strategy
+ * Bring in business expertise to determine the potential value of the strategy
 * Develop a technology roadmap
