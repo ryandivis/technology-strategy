@@ -23,9 +23,9 @@ The goal of engaging in a technology strategy session with SolutionStream is to 
 
 * Phase 1
  * Identify technology direction and purpose with technology leader(s) and stakeholders
-  * Roadmap boundaries - We must get an idea of the most critical issues and their priority from the technology leadership.
-  * Critical systems and requirements
-  * Technology goals
+ 	* Roadmap boundaries - We must get an idea of the most critical issues and their priority from the technology leadership.
+	* Critical systems and requirements
+	* Technology goals
  * Review current technology in the "wild"
   * Identify technology work flow with stakeholders and users
   * Identify pain points
